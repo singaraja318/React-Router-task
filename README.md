@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prakash V S and I made a website which is based on react router which was designed by me using React. It's from the Guvi-Zen class Roadmap, specifically React- Day - 6 Task</p>
+<p align="left">My name is singaraj V S and I made a website which is based on react router which was designed by me using React. It's from the Guvi-Zen class Roadmap, specifically React- Day - 6 Task</p>
 
 ###
 
@@ -88,5 +88,5 @@ You may also see any lint errors in the console.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at prakashvs.official@gmail.com
+If you have any feedback, please reach out to me at singaraja318@gmail.com
 
