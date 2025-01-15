@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is singaraj V S and I made a website which is based on react router which was designed by me using React. It's from the Guvi-Zen class Roadmap, specifically React- Day - 6 Task</p>
+<p align="left">My name is singaraj  and I made a website which is based on react router which was designed by me using React. It's from the Guvi-Zen class Roadmap, specifically React- Day - 6 Task</p>
 
 ###
 
